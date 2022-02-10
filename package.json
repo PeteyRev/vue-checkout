@@ -64,7 +64,7 @@
     "lighthouse": "^4.0.0-alpha.2-3.2.1",
     "load-grunt-config": "^0.19.2",
     "lodash-webpack-plugin": "^0.11.2",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "npx": "^10.2.0",
     "sass": "^1.26.3",
     "sass-loader": "^8.0.2",
